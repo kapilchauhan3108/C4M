@@ -1,0 +1,26 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "C4MCPackage",
+            "versionName": "ver 1.0",
+            "versionNumber": "1.3.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "53.0",
+    "packageAliases": {
+        "C4MCPackage": "0Ho09000000CaqFCAS",
+        "C4MCPackage@1.0.0-1": "04t09000000v9cNAAQ",
+        "C4MCPackage@1.0.0-2": "04t09000000v9crAAA",
+        "C4MCPackage@1.0.0-3": "04t09000000v9pCAAQ",
+        "C4MCPackage@1.0.0-4": "04t09000000v9pMAAQ",
+        "C4MCPackage@1.0.0-5": "04t09000000v9pRAAQ",
+        "C4MCPackage@1.2.0-1": "04t09000000v9pgAAA",
+        "C4MCPackage@1.3.0-1": "04t09000000vAEhAAM",
+        "C4MCPackage@1.3.0-2": "04t09000000vAEmAAM",
+        "C4MCPackage@1.3.0-3": "04t09000000vAErAAM"
+    }
+}
